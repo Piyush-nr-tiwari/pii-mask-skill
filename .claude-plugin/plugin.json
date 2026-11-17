@@ -1,0 +1,9 @@
+{
+  "name": "pii-mask-skill",
+  "description": "Mask personal data (PII) in any file with three agents: a masker, a tester that checks the result blind, and an auditor that confirms nothing personal is left. It never repeats the data it hides.",
+  "version": "1.1.0",
+  "author": {"name": "Piyush Tiwari"},
+  "repository": "https://github.com/Piyush-nr-tiwari/pii-mask-skill",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "pii", "privacy", "redaction", "data-masking", "dpdp", "gdpr"]
+}

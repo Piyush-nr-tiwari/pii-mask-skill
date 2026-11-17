@@ -1,0 +1,7 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pii-mask-skill",
+  "description": "The PII mask skill for Claude Code",
+  "owner": {"name": "Piyush Tiwari"},
+  "plugins": [{"name": "pii-mask-skill", "description": "Mask personal data in any file. A masker, a tester and an auditor make sure nothing personal is left.", "source": "./", "category": "productivity", "author": {"name": "Piyush Tiwari"}, "homepage": "https://github.com/Piyush-nr-tiwari/pii-mask-skill"}]
+}
